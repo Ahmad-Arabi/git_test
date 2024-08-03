@@ -1,3 +1,6 @@
 Hello World
 This is an early build 
 We appreciate your support
+HTML core and foundation 
+CSS stylization (feel and looks)
+JS interactive, functions and animation 
