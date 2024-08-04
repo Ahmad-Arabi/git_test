@@ -1,0 +1,36 @@
+Useful commands
+
+Setups git user and email"private email"
+git config --global user.name "Your Name"
+git config --global user.email "yourname@example.com"
+
+To check linked username and email 
+git config --get user.name
+git config --get user.email
+
+To create a new SSH key
+ssh-keygen -t ed25519
+
+To clone github repository to local 
+git clone SSH link
+
+To check that 
+git remote -v
+
+To check status of edited files
+git status 
+
+To check log 
+git log 
+
+To add file to staging 
+git add file name 
+
+To commit the file 
+git commit 
+
+To push changes to github
+git push
+
+To set VScode for notes 
+git config --global core.editor "code --wait"
