@@ -1,0 +1,8 @@
+opening tag <p>
+closing tag </p>
+element p= paragraph 
+
+i.e
+<p> the content of the paragraph </p>
+
+**We should always name the HTML file that will contain the homepage of our website index.html**
